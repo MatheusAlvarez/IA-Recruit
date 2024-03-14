@@ -27,6 +27,8 @@ Escolhi a inteligência artificial como o produto inovador a ser destacado neste
 
 - client (Pasta com os arquivos Front-End)
 
+- server (Pasta com os arquivos Back-End)
+
 ---
 
 ## ⚙️ Funcionalidades

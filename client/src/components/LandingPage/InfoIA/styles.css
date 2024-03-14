@@ -1,0 +1,55 @@
+.back-color-info{
+    background-color: #1b1b1b;
+    text-align: center;
+}
+
+.centalizar-info{
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.h2-info{
+    background: -webkit-linear-gradient(left, #9e36b8 0%, #5b45e9 100%);
+    background: -webkit-gradient(to right, #9e36b8 0%, #5b45e9 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-size: 35px;
+}
+
+.pdb-5{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.txtInfo1{
+    font-size: 35px;
+}
+
+.txtInfo{
+    font-size: 22px;
+}
+
+.btnInfoDev{
+    border-radius: 20px;
+    height: 40px;
+    padding: 0px 15px;
+    font-size: 15px;
+    background: -webkit-linear-gradient(left, #9e36b8 0%, #5b45e9 100%);
+    background: -webkit-gradient(to right, #9e36b8 0%, #5b45e9 100%);
+    font-weight: 500;
+    transition: 1s;
+    border: none;
+}
+
+.btnInfoDev:hover{
+    transition: 1s;
+    background: -webkit-linear-gradient(left, #5b45e9 0%, #9e36b8 100%);
+    background: -webkit-gradient(to right, #9e36b8 0%, #5b45e9 100%);
+    transform: scale(1.1);
+    filter: grayscale(35%);
+}
+
+strong{
+    font-size: 20px;
+}

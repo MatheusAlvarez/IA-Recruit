@@ -1,0 +1,24 @@
+/* TabelaUsuarios.css */
+.tabela-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;    
+  margin: 20px 0;
+  background-color: #000;
+}
+
+.tabela {
+  border-collapse: collapse;
+  width: 80%; /* Ajuste a largura conforme necessário */
+}
+
+.tabela th, .tabela td {  
+  padding: 8px;
+  text-align: left;
+  color: #fff;
+}
+
+.tabela th {
+  border-bottom: 1px solid #fff;
+}
+  

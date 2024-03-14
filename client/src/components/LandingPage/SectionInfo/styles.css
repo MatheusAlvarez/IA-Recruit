@@ -1,0 +1,31 @@
+.back-color{
+    background-color: #000000;
+    text-align: center;
+    justify-content: center;
+}
+
+.centalizar{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: #fff;    
+}
+
+.icon{
+    font-size: 4.0rem;
+    color: #5b45e9;
+}
+
+.pdb-5{
+    padding-bottom: 25px;
+    padding-top: 25px;
+}
+
+.container-itens{
+    width: 23%;
+}
+
+
+strong{
+    font-size: 20px;
+}

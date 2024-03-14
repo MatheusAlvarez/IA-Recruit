@@ -1,0 +1,15 @@
+
+.back-color-contato{
+    background-color: #1b1b1b;
+    text-align: center;
+}
+
+.centalizar{
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.imgContato{
+    width: 80%;
+}

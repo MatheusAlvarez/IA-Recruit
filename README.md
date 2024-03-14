@@ -75,6 +75,10 @@ Back-End:
 4 - Entrar na pasta "server" e instalar a pasta "node_modules" (npm install)<br>
 5 - Rodar o servidor na pasta "server" (node app.js)<br>
 
+Banco:
+
+6- Criar um banco chamado "login" (create database login)
+
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:

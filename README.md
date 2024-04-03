@@ -13,7 +13,6 @@
  <a href="#user-content--licença">Licença</a>
 </p>
 
-
 ## 💻 Sobre o projeto
 
 IA-Recruit é um projeto criado para um processo seletivo.

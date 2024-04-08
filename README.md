@@ -70,6 +70,7 @@ Front-End:
 2 - Entrar na pasta "client" e instalar a pasta "node_modules" (npm install)<br>
 3 - Rodar o projeto na pasta "client" (npm start)<br>
 
+
 Back-End:
 
 4 - Entrar na pasta "server" e instalar a pasta "node_modules" (npm install)<br>

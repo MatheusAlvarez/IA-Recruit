@@ -17,6 +17,7 @@
 
 IA-Recruit é um projeto criado para um processo seletivo.
 
+
 O objetivo deste projeto era desenvolver uma Landing Page para um produto inovador, proporcionando aos usuários a oportunidade de se inscreverem para receber notificações sobre as atualizações do produto.
 
 Escolhi a inteligência artificial como o produto inovador a ser destacado neste projeto. A inteligência artificial tem se destacado cada vez mais nos últimos anos devido ao seu potencial revolucionário em diversas áreas, incluindo saúde e educação.
